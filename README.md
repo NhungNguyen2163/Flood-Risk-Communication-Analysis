@@ -4,7 +4,9 @@ This research evaluates how different audiences (public vs. experts) interpret t
 
 ### Key Tasks & Methodology
 **Experimental Design:** Designed and tested 5 alternative risk matrix formats involving variations in color, size, and labeling.
+
 **Data Collection:** Conducted a mixed-method study with 351 public participants and 12 hydrometeorological experts.
+
 **Statistical Analysis:** Applied **ANOVA** and **linear mixed-effects models** in **R** to assess clarity, trust, and behavioral intentions.
 
 ### Results
