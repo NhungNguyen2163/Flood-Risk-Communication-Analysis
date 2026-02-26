@@ -10,4 +10,4 @@ This research evaluates how different audiences (public vs. experts) interpret t
 **Statistical Analysis:** Applied **ANOVA** and **linear mixed-effects models** in **R** to assess clarity, trust, and behavioral intentions.
 
 ### Results
-Proposed data-driven recommendations for improving the National Severe Weather Warning Service (NSWWS) to enhance public protective decision-making.
+Presented to the Met Office and proposed data-driven recommendations to improve the National Severe Weather Warning Service (NSWWS) and enhance public protective decision-making.
